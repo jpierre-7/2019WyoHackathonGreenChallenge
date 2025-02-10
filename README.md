@@ -1,5 +1,7 @@
-# WyoHackathon_2019_green_challenge
+# [WyoHackathon_2019_green_challenge](https://wyohackathon2019.devpost.com/)
 An easy to use and fully interactive text adventure, exploring the awesome intricacies of green as it pioneers blockchain.
+
+Click [here](https://devpost.com/software/green-a-text-adventure) for the Devpost page of my submission
 
 ## Inspiration
 
